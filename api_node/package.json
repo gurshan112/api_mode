@@ -1,0 +1,9 @@
+{
+  "name": "api_node",
+  "version": "1.0.0",
+  "description": "API de estado de Distribuciones Mediterraneo S.L.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
